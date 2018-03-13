@@ -1,0 +1,13 @@
+%Si³a
+
+i=1;
+j=1;
+for alfa=90:5:00
+    for V=50:5:100
+        F=1*1*cosd(alfa)*V^2*0.5
+        i=1+1;
+    end
+    j=j+1;
+end
+
+F
